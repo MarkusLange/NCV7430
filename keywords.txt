@@ -1,0 +1,52 @@
+#######################################
+# Syntax Coloring Map For OneWire
+#######################################
+
+#######################################
+# DataTypes (KEYWORD1)
+#######################################
+
+NCV7430	KEYWORD1
+ncv7430	KEYWORD1
+
+#######################################
+# Methods and Functions (KEYWORD2)
+#######################################
+
+init	KEYWORD2
+set_color	KEYWORD2
+set_led_color	KEYWORD2
+set_led_control	KEYWORD2
+set_color_short	KEYWORD2
+set_intensity	KEYWORD2
+set_primary_cal_param	KEYWORD2
+set_secondary_cal_param	KEYWORD2
+set_otp_param	KEYWORD2
+sleep	KEYWORD2
+get_full_status	KEYWORD2
+get_actual_param1	KEYWORD2
+get_actual_param2	KEYWORD2
+get_otp_param1	KEYWORD2
+get_otp_param2	KEYWORD2
+get_status	KEYWORD2
+get_color	KEYWORD2
+get_led_control	KEYWORD2
+set_color_fade	KEYWORD2
+set_intensity_fade	KEYWORD2
+set_node_addressing	KEYWORD2
+set_group_addressing	KEYWORD2
+set_fading_slope	KEYWORD2
+
+#######################################
+# Instances (KEYWORD2)
+#######################################
+
+
+
+#######################################
+# Constants (LITERAL1)
+#######################################
+
+BIT_RATE	LITERAL1
+fading_slope_logarithmic	LITERAL1
+fading_slope_linear	LITERAL1
