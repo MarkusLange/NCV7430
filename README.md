@@ -12,7 +12,7 @@ uint8_t rgb_r[3] = {255,   0,   0};
 uint8_t rgb_g[3] = {  0, 255,   0};  
 uint8_t rgb_b[3] = {  0,   0, 255};  
 
-Since the "SK Pang Electronics LIN Bus Slave RGB LED Breakout Board" did not has the LEDs Red, Green ans Blue in the normal order connected to the IC,
+Since the "SK Pang Electronics LIN Bus Slave RGB LED Breakout Board" did not has the LEDs Red, Green and Blue in the normal order connected to the IC,
 the color sequence is adjusted inside the Library for known usage, for different sequences it has reassign.
 
 Inside the ncv7430.cpp  
